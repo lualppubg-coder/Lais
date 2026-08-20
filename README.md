@@ -522,7 +522,7 @@ const PLANO = [
   ]},
   { id:"quarta", nome:"Quarta-feira", proteinaDia:"~85-90 g", refeicoes:[
     { id:"quarta-cafe", nome:"Café da manhã", icon:"☀️", proteina:"18-20g", alimentos:["2 fatias de pão","2 ovos mexidos","1 fatia de queijo","banana"] },
-    { id:"quarta-almoco", nome:"Almoço", icon:"🍚", proteina:"25g", alimentos:["arroz","feijão","80g de frango assado","salada","azeite","manga"] },
+    { id:"quarta-almoco", nome:"Almoço", icon:"🍚", proteina:"25g", alimentos:["arroz","feijão","80g de frango assado","salada" ] },
     { id:"quarta-lanche", nome:"Lanche da tarde", icon:"🥪", proteina:"15-18g", alimentos:["1 pão","50g de frango desfiado","1 fatia de queijo","fruta"] },
     { id:"quarta-jantar", nome:"Jantar", icon:"🌙", proteina:"25g", alimentos:["macarrão","80g de carne moída","legumes/salada","fruta"] }
   ]},
